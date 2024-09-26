@@ -38,9 +38,9 @@
     data() {
       return {
         products: [
-          { id: 1, name: 'Молния', price: 1005060, imageUrl: require('@/assets/mcvin.jpeg') },
-          { id: 2, name: 'Маквин', price: 287798700, imageUrl: require('@/assets/metr.jpeg') },
-          { id: 3, name: 'Делает кчау', price: 301510, imageUrl: require('@/assets/franc.jpeg') }
+          { id: 1, name: 'Молния', price: 100260, imageUrl: require('@/assets/mcvin.jpeg') },
+          { id: 2, name: 'Маквин', price: 2898700, imageUrl: require('@/assets/metr.jpeg') },
+          { id: 3, name: 'Делает кчау', price: 3010, imageUrl: require('@/assets/franc.jpeg') }
         ],
         cart: [],
         showOrderForm: false
